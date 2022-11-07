@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sisodiya77
-- 👀 I’m interested Full Stack Development
+- 👋 Hi, I’m Dhirendra Singh Sisodiya
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Backend(Node.js)
-- 💞️ I’m looking to collaborate on IT Companies Which are Hiring Fresher Front End Developer
+- 💞️ I’m looking to collaborate in IT Companies Which are Hiring Fresher Front End Developer
 - 📫 How to reach me Gmail:sisodiyadhirendra1@gmail.com
 
 <!---
